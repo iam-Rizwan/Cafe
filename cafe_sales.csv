@@ -1,0 +1,16 @@
+Date,ItemID,ItemName,Category,UnitPrice,QuantitySold,TotalSale
+2025-08-11,C01,Espresso,Coffee,2.50,15,37.50
+2025-08-11,P02,Croissant,Pastry,3.00,12,36.00
+2025-08-11,S01,Turkey Sandwich,Sandwich,7.50,8,60.00
+2025-08-12,C02,Latte,Coffee,3.50,22,77.00
+2025-08-12,P01,Muffin ,Pastry,2.75,10,27.50
+2025-08-12,C01,espresso,Coffee,2.50,11,27.50
+2025-08-13,T01,Iced Tea,Tea,2.25,,33.75
+2025-08-13,P02,Croissant,Pastry,3.00,9,27.00
+2025-08-13,S01,Turkey Sandwich,Sandwich,7.50,7,52.50
+2025-08-14,C01,Espresso,Coffee,2.50,18,45.00
+2025-08-14,C03,Cappuccino,Coffee,3.25,14,45.50
+2025-08-14,P01,Muffin,Pastry,2.75,two,5.50
+2025-08-15,C02,Latte,Coffee,3.50,25,87.50
+2025-08-15,T01,Iced Tea,Tea,2.25,12,27.00
+2025-08-15,P02,Croissant,Pastry,3.00,11,35.00
